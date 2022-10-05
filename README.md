@@ -27,3 +27,8 @@ After creating the retirement titles table, the next step was to create the uniq
 Next was to figure out the employees that are eligible to participate in a mentorship program. Using the information I used to gather the previous table, I was able to create a code that would be able to determine who was eligible and place that information into the _mentorship_eligibilty.csv_. The code provided below:
 
 <img width="381" alt="image" src="https://user-images.githubusercontent.com/107371010/194139590-17d0b41b-faea-4781-a6ed-83b419e38ad6.png">
+
+
+## Summary:
+
+With the upcoming "silver tsumani", the amount of roles that would need to be filled accoording to the analysis will be 
