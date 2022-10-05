@@ -18,7 +18,7 @@ Utilizing the data sources provided for the analysis, I was able to join the dat
 <img width="380" alt="image" src="https://user-images.githubusercontent.com/107371010/193962374-cf01ec6d-896b-4377-9284-53f6c27926e3.png">
 
 
-After creating the retirement titles table, the next step was to create the unique titles table. This table will show Pewlett Hackard the employee that still currently working for the company, and exclude those that do not. As shown below:
+After creating the retirement titles table, the next step was to create the unique titles table. This table will show Pewlett Hackard the employees that still currently working for the company, and exclude those that do not. As shown below:
 
 
 <img width="388" alt="image" src="https://user-images.githubusercontent.com/107371010/194138714-ffd043e8-5293-48cd-8c0e-813b8d163852.png">
