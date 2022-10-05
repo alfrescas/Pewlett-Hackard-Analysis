@@ -36,6 +36,6 @@ With the upcoming "silver tsumani", the amount of roles that would need to be fi
 <img width="143" alt="image" src="https://user-images.githubusercontent.com/107371010/194141558-b843c502-8a03-4470-8141-c86a4eb5aa03.png">
 
 
-There will be enough retirement-ready employees that will be able to mentor the next generation of Pewlett Hackard employees, that data provided below confirms that:
+There will not be enough retirement-ready employees that will be able to mentor the next generation of Pewlett Hackard employees, the data from the _mentorship_eligibilty.csv_ shows there is not enough employees to mentor the upcoming employees.
 
 
